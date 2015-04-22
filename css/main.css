@@ -1,0 +1,43 @@
+body {
+  margin: 60px auto;
+  width: 70%;
+}
+nav ul, foot ul {
+  font-family: 'Calibri Light', 'Arial', 'Segoe UI Light'; 
+  padding: 5px 10px; 
+  list-style: none; 
+  font-weight: bold; 
+}
+nav ul li, foot ul li {
+  display: inline; 
+  margin-right: 20px;
+}
+a {
+  text-decoration: none;
+  color: #0F0F0F; 
+}
+a:hover {
+  text-decoration: bold; 
+}
+h1 {
+  font-size: 3em; 
+  font-family: 'Calibri Light', 'Arial', 'Segoe UI Light'; 
+}
+p {
+  font-size: 1.5em;
+  line-height:1.1em; 
+  colour: #3F3F3F; 
+}
+footer {
+  border-top: 1px solid #33CCFF; 
+  font-size: 0.8em; 
+}
+
+ul.posts {
+  margin: 20px auto 40px; 
+  font-size: 1.5em; 
+}
+
+ul.posts li {
+  list-style: none; 
+}
