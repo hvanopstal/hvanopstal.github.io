@@ -4,27 +4,27 @@ body {
 }
 nav ul, foot ul {
   font-family: 'Calibri Light', 'Arial', 'Segoe UI Light'; 
-  padding: 5px 10px; 
+  padding: 5px 15px; 
   list-style: none; 
   font-weight: bold; 
 }
 nav ul li, foot ul li {
   display: inline; 
-  margin-right: 20px;
+  margin-right: 15px;
 }
 a {
   text-decoration: none;
   color: #B1B1B1; 
 }
 a:hover {
-  text-decoration: bold; 
+  text-decoration: underline; 
 }
 h1 {
   font-size: 3em; 
   font-family: 'Calibri Light', 'Arial', 'Segoe UI Light'; 
 }
 p {
-  font-size: 1.5em;
+  font-family: 'Calibri Light', 'Arial', 'Segoe UI Light';
   line-height:1.1em; 
   colour: #3F3F3F; 
 }
