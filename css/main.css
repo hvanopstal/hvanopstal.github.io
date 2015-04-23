@@ -14,6 +14,8 @@ nav ul li, foot ul li {
 }
 a {
   text-decoration: none;
+  font-family: Calibri, Arial;
+  list-style: none;
   color: #B1B1B1; 
 }
 a:hover {
