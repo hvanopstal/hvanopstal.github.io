@@ -25,6 +25,10 @@ h1 {
   font-size: 3em; 
   font-family: Calibri, Arial; 
 }
+h2 {
+  font-size: 2em;
+  font-family: Calibri, Arial;
+}
 p {
   font-family: Calibri Light, Arial;
   colour: #3F3F3F; 
