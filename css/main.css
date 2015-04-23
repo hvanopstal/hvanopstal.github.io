@@ -1,6 +1,7 @@
 body {
   margin: 60px auto;
   width: 70%;
+  background-color:#FFE1CF;
 }
 nav ul, foot ul {
   font-family: Calibri, Arial; 
@@ -16,10 +17,10 @@ a {
   text-decoration: none;
   font-family: Calibri, Arial;
   list-style: none;
-  color: #B1B1B1; 
+  color: #585858; 
 }
 a:hover {
-  text-decoration: underline; 
+  color: #ACACAC; 
 }
 h1 {
   font-size: 3em; 
