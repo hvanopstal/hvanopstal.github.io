@@ -1,2 +1,4 @@
 name: Hannah Van Opstal
 markdone: kramdown
+
+permalink: /blog/:year/:month/:day/:title
