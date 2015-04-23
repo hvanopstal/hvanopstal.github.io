@@ -3,7 +3,7 @@ body {
   width: 70%;
 }
 nav ul, foot ul {
-  font-family: 'Calibri Light', 'Arial', 'Segoe UI Light'; 
+  font-family: Calibri Light; 
   padding: 5px 15px; 
   list-style: none; 
   font-weight: bold; 
@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
   font-size: 3em; 
-  font-family: 'Calibri Light', 'Arial', 'Segoe UI Light'; 
+  font-family: Segoe UI Light; 
 }
 p {
   font-family: 'Calibri Light', 'Arial', 'Segoe UI Light';
