@@ -5,13 +5,13 @@ body {
 }
 nav ul, foot ul {
   font-family: "Calibri", Arial; 
-  padding: 5px 40px; 
+  padding: 5px 15px; 
   list-style: none; 
   font-weight: bold; 
 }
 nav ul li, foot ul li {
   display: inline; 
-  margin-right: 15px;
+  margin-right: 40px;
 }
 nav-bar ul li {
   display: inline;
