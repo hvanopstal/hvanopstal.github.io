@@ -47,6 +47,7 @@ footer {
   font-size: 0.8em; 
   font-family: "Calibri", Arial;
   display: inline;
+  list-style: none;
 }
 
 ul.posts {
