@@ -4,7 +4,7 @@ header {
 body {
   margin: 60px auto;
   width: 100%
-  background-color:#FFE1CF;
+  background-color:#CCDD99;
 }
 nav ul, foot ul {
   font-family: "Calibri", Arial; 
@@ -18,11 +18,12 @@ nav ul li, foot ul li {
 }
 nav-bar ul li {
   display: inline;
+  background-color: #55FFAA;
   list-style-type: none;
-  margin: 20;
+  margin: 15;
   padding: 0;
   font-family: "Calibri", Arial;
-  text-align: justify;
+  text-align: center;
 }
 a {
   text-decoration: none;
