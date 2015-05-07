@@ -20,8 +20,7 @@ nav-bar ul li {
   display: inline;
   background-color: #55FFAA;
   list-style-type: none;
-  margin: 15;
-  padding: 0;
+  margin: 10;
   font-family: "Calibri", Arial;
   text-align: center;
 }
@@ -29,7 +28,7 @@ a {
   text-decoration: none;
   font-family: Calibri, Arial;
   list-style: none;
-  color: #585858; 
+  color: #550066; 
 }
 a:hover {
   color: #ACACAC; 
