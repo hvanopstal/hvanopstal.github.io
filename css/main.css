@@ -4,7 +4,7 @@ header {
 body {
   margin: 60px auto;
   width: 100%
-  background-color:#CCDD99;
+  background-color:#DBDADA;
 }
 nav ul, foot ul {
   font-family: "Calibri", Arial; 
@@ -15,12 +15,12 @@ nav ul, foot ul {
 nav ul li, foot ul li {
   display: inline; 
   margin-right: 40px;
+  text-align: center;
 }
 nav-bar ul li {
   display: inline;
   background-color: #55FFAA;
   list-style-type: none;
-  margin: 10;
   font-family: "Calibri", Arial;
   text-align: center;
 }
@@ -28,7 +28,7 @@ a {
   text-decoration: none;
   font-family: Calibri, Arial;
   list-style: none;
-  color: #550066; 
+  color: #222222; 
 }
 a:hover {
   color: #ACACAC; 
