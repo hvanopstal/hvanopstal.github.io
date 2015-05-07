@@ -1,6 +1,9 @@
+header {
+  width: 100%;
+}
 body {
   margin: 60px auto;
-  width: 90%
+  width: 100%
   background-color:#FFE1CF;
 }
 nav ul, foot ul {
