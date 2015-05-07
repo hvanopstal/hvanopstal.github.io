@@ -6,13 +6,13 @@ body {
   width: 100%
   background-color:#DBDADA;
 }
-nav ul, foot ul {
+nav ul, footer ul {
   font-family: "Calibri", Arial; 
   padding: 5px 15px; 
   list-style: none; 
   font-weight: bold; 
 }
-nav ul li, foot ul li {
+nav ul li, footer ul li {
   display: inline; 
   margin-right: 40px;
   text-align: center;
@@ -51,7 +51,6 @@ footer {
   display: inline;
   list-style: none;
 }
-
 ul.posts {
   margin: 20px auto 40px; 
   font-size: 1.5em; 
