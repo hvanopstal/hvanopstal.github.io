@@ -23,6 +23,7 @@ nav-bar ul li {
   font-family: "Calibri", Arial;
   text-align: center;
   color: #222222;
+  padding-top: 10px;
 }
 a {
   text-decoration: none;
