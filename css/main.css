@@ -22,12 +22,12 @@ nav-bar ul li {
   list-style-type: none;
   font-family: "Calibri", Arial;
   text-align: center;
+  color: #222222;
 }
 a {
   text-decoration: none;
   font-family: Calibri, Arial;
   list-style: none;
-  color: #222222; 
 }
 a:hover {
   color: #ACACAC; 
