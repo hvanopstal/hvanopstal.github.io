@@ -40,16 +40,15 @@ a:visited {
 }
 h1 {
   font-size: 2.4em; 
-  font-family: "Coming Soon", "Calibri", Arial; 
+  font-family: "Satisfy", "Calibri", Arial; 
   text-align: center;
 }
 h2 {
   font-size: 1.4em;
-  font-family: "Pacifico", "Calibri", Arial;
-  text-align: center;
+  font-family: "Coming Soon", "Calibri", Arial;
 }
 p {
-  font-family: "Calibri Light", Arial;
+  font-family: "News Cycle", "Calibri", Arial;
   colour: #3F3F3F; 
 }
 footer {
