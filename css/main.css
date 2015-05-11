@@ -81,5 +81,9 @@ div.intro-welcome {
 }
 div.intro-jobtitle {
   font-size: 1.6em;
-  margin-top: 5em;
+  margin-top: 5px;
+}
+div.section-title {
+  padding-top: 10px;
+  font-family: "Coming Soon", "Calibri", Arial;
 }
