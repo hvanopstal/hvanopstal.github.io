@@ -64,10 +64,16 @@ ul.posts {
   margin: 20px auto 40px; 
   font-size: 1.5em; 
 }
-
 ul.posts li {
   list-style: none; 
 }
 div.navigation-bar {
   background-color: #FE858E;
+}
+div.welcome {
+  font-family: "Satisfy", "Calibri", Arial;
+  font-size: 3em;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
