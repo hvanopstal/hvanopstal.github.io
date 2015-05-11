@@ -18,7 +18,6 @@ nav ul li, footer ul li {
 }
 nav-bar ul li {
   display: inline;
-  margin-top: 25px;
   list-style-type: none;
   font-family: "Calibri", Arial;
   text-align: center;
