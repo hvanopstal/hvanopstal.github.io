@@ -72,8 +72,14 @@ div.navigation-bar {
 }
 div.intro {
   font-family: "Satisfy", "Calibri", Arial;
-  font-size: 3em;
-  padding-left: 10px;
-  padding-top: 10px;
-  padding-bottom: 20px;
+  margin-left: 10px;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+div.intro-welcome {
+  font-size: 2em;
+}
+div.intro-jobtitle {
+  font-size: 1.6em;
+  margin-top: 5em;
 }
