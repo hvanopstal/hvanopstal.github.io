@@ -4,7 +4,7 @@ header {
 body {
   margin: 30px 40px;
   width: 100%
-  background-color:#DBDADA;
+  background-color:#468499;
 }
 nav ul, footer ul {
   font-family: "Calibri", Arial; 
@@ -22,7 +22,7 @@ nav-bar ul li {
   list-style-type: none;
   font-family: "Calibri", Arial;
   text-align: center;
-  color: #222222;
+  color: ##e7d9aa;
 }
 a {
   text-decoration: none;
@@ -71,9 +71,11 @@ div.navigation-bar {
 }
 div.intro {
   font-family: "Satisfy", "Calibri", Arial;
-  margin-left: 90px;
-  margin-top: 120px;
+  margin-left: 100px;
+  margin-top: 140px;
   margin-bottom: 180px;
+  background-image: url(http://www.ilikewallpaper.net/ipad-air-wallpapers/
+    download/4538/Flower-Field-iPad-4-wallpaper-ilikewallpaper_com.jpg);
 }
 div.intro-welcome {
   font-size: 2.4em;
