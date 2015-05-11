@@ -14,7 +14,6 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
   display: inline; 
-  margin-right: 40px;
   text-align: center;
 }
 nav-bar ul li {
@@ -51,11 +50,10 @@ h2 {
 }
 p {
   font-family: "News Cycle", "Calibri", Arial;
-  colour: #3F3F3F; 
+  color: #3F3F3F; 
 }
 footer {
-  border-top: 1px solid #33CCFF; 
-  font-size: 0.8em; 
+  border-top: 3px dotted #33CCFF; 
   font-family: "Calibri", Arial;
   display: inline;
   list-style: none;
@@ -72,15 +70,15 @@ div.navigation-bar {
 }
 div.intro {
   font-family: "Satisfy", "Calibri", Arial;
-  margin-left: 10px;
-  margin-top: 16px;
-  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 250px;
+  margin-bottom: 300px;
 }
 div.intro-welcome {
-  font-size: 2em;
+  font-size: 2.4em;
 }
 div.intro-jobtitle {
-  font-size: 1.6em;
+  font-size: 2em;
   margin-top: 5px;
 }
 div.section-title {
