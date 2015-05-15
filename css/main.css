@@ -55,7 +55,8 @@ footer {
   border-top: 3px dotted #33CCFF; 
   font-family: "Calibri", Arial;
   display: inline;
-  margin: 30px 40px;
+  width: 90%;
+  margin: 0px auto;
 }
 ul.posts {
   margin: 20px auto 40px; 
@@ -66,6 +67,7 @@ ul.posts li {
 }
 div.navigation-bar {
   vertical-align: inline-block;
+  text-decoration: none;
 }
 div.intro {
   font-family: "Satisfy", "Calibri", Arial;
