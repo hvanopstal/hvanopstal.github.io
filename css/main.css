@@ -2,9 +2,9 @@ header {
   width: 100%;
 }
 body {
-  margin: 30px 40px;
-  width: 100%
-  background-color:#468499;
+  margin: 0px auto;
+  width: 90%
+  background-color: #F9F6F1;
 }
 nav ul, footer ul {
   font-family: "Calibri", Arial; 
@@ -23,18 +23,18 @@ nav-bar ul li {
   text-align: center;
   color: ##e7d9aa;
 }
-a {
+a { <!-- link elements -->
   text-decoration: none;
   font-family: Calibri, Arial;
   list-style: none;
-  color: #222222;
+  color: #191919;
 }
-a:hover {
+a:hover { 
   font-weight: bold; 
-  font-size: 1.1em;
+  font-size: 1.05em;
 }
 a:visited {
-  color: #4E4E4E;
+  color: #2f2f2f;
 }
 h1 {
   padding-top: 15px;
@@ -47,15 +47,14 @@ h2 {
   font-size: 1.4em;
   font-family: "Coming Soon", "Calibri", Arial;
 }
-p {
+p { <!-- description elements -->
   font-family: "News Cycle", "Calibri", Arial;
-  color: #3F3F3F; 
+  color: #191919; 
 }
 footer {
   border-top: 3px dotted #33CCFF; 
   font-family: "Calibri", Arial;
   display: inline;
-  list-style: none;
   margin: 30px 40px;
 }
 ul.posts {
@@ -66,7 +65,7 @@ ul.posts li {
   list-style: none; 
 }
 div.navigation-bar {
-  background-color: #FE858E;
+  vertical-align: inline-block;
 }
 div.intro {
   font-family: "Satisfy", "Calibri", Arial;
@@ -84,6 +83,6 @@ div.intro-jobtitle {
 div.section-title {
   margin-top: 30px;
   font-family: "Coming Soon", "Calibri", Arial;
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-weight: bold;
 }
