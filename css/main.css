@@ -89,3 +89,9 @@ div.section-title {
   font-size: 1.2em;
   font-weight: bold;
 }
+div.row {
+  vertical-align: inline-block;
+}
+div.home {
+  text-align: center; 
+}
