@@ -3,6 +3,7 @@ header {
 }
 body {
   margin: 0px auto;
+  padding: 10px;
   width: 90%
   background-color: #F9F6F1;
 }
@@ -66,10 +67,26 @@ ul.posts {
 ul.posts li {
   list-style: none; 
 }
-div.navigation-bar {
+
+.navigation-bar {
   vertical-align: inline-block;
   text-decoration: none;
 }
+  .navigation-bar.home { float: left; }
+  .navigation-bar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float:right;
+  }
+  .navigation-bar ul li { display: inline; }
+  .navigation-bar ul li a {
+    padding: 40px;
+    color: #191919;;
+  }
+  .navigation-bar ul li a:last-of-type { padding-right: 0px; }
+  .navigation-bar ul li a:hover { color: #5e5e5e; }
+
 div.intro {
   font-family: "Satisfy", "Calibri", Arial;
   margin-left: 100px;
