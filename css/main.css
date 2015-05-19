@@ -75,15 +75,19 @@ ul.posts li {
     float: left;
     text-decoration: none;
   }
-  .navigation-bar.home a:hover { color: #5e5e5e; }
+  .navigation-bar.home a:hover { 
+    color: #5e5e5e; 
+    text-decoration: none;
+  }
   .navigation-bar ul {
-    list-style: none;
+    text-decoration: none;
     margin: 0;
     padding: 0;
     float: right;
   }
     .navigation-bar ul li { display: inline; }
       .navigation-bar ul li a {
+        text-decoration: none;
         padding: 40px;
         color: #191919;
       }
