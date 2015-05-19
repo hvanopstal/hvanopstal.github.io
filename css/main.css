@@ -53,9 +53,10 @@ footer {
   width: 90%;
   margin: 0px auto;
   border-top: 3px dotted #33CCFF; 
+  display: inline;
   font-family: "Calibri", Arial;
-  list-style: none;
   text-decoration: none;
+  list-style: none;
 }
 ul.posts {
   margin: 20px auto 40px; 
@@ -70,7 +71,10 @@ ul.posts li {
   text-decoration: none;
   padding: 5px 0px 15px 0;
 }
-  .navigation-bar.home a { float: left; }
+  .navigation-bar.home a { 
+    float: left;
+    text-decoration: none;
+  }
   .navigation-bar.home a:hover { color: #5e5e5e; }
   .navigation-bar ul {
     list-style: none;
@@ -108,9 +112,7 @@ div.section-title {
 div.row {
   vertical-align: inline-block;
 }
-div.home {
-  text-align: center; 
-}
+
 .contact-information {
   float: middle;
   padding: 10px 0px;
