@@ -8,7 +8,7 @@ body {
   background-color: #F9F6F1;
 }
 .container {
-  width: 90%;
+  width: 95%;
 }
 nav ul, footer ul {
   font-family: "Calibri", Arial; 
@@ -90,19 +90,19 @@ ul.posts li {
   .navigation-bar ul li a:last-of-type { padding-right: 0px; }
   .navigation-bar ul li a:hover { color: #5e5e5e; }
 
-div.intro {
+.intro {
   font-family: "Satisfy", "Calibri", Arial;
   margin-left: 100px;
   margin-top: 150px;
   margin-bottom: 200px;
 }
-div.intro-welcome {
-  font-size: 2.4em;
-}
-div.intro-jobtitle {
-  font-size: 2em;
-  margin-top: 5px;
-}
+  .intro.intro-welcome {
+    font-size: 2.4em;
+  }
+  .intro.intro-jobtitle {
+    font-size: 2em;
+    margin-top: 5px;
+  }
 div.section-title {
   margin-top: 30px;
   font-family: "Coming Soon", "Calibri", Arial;
@@ -115,3 +115,13 @@ div.row {
 div.home {
   text-align: center; 
 }
+.contact-information {
+  float: middle;
+  padding: 10px 0px;
+  width: 100%;
+  display: inline-block;
+}
+  .contact-information li a {
+    text-decoration: none;
+    list-style: none;
+  }
