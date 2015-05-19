@@ -31,7 +31,6 @@ a { <!-- link elements -->
 }
 a:hover, a:active { 
   text-decoration: none;
-  font-weight: bold; 
   color: #5e5e5e;
 }
 h1 {
@@ -97,7 +96,7 @@ ul.posts li {
 .intro {
   font-family: "Satisfy", "Calibri", Arial;
   margin-left: 100px;
-  margin-top: 150px;
+  margin-top: 180px;
   margin-bottom: 200px;
 }
   .intro-welcome {
