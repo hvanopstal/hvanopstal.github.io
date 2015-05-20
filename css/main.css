@@ -10,7 +10,7 @@ body {
   margin: 0px auto;
 }
 .container {
-  width: 95%;
+  width: 100%;
 }
 <!--
 nav ul, footer ul {
@@ -71,20 +71,23 @@ ul.posts li {
   padding: 5px 0px 15px 0;
 }
   .navigation-bar.home a { 
+    text-decoration: none;
     float: left;
-    text-decoration: none;
   }
-  .navigation-bar.home a:hover { 
-    color: #5e5e5e; 
-    text-decoration: none;
-  }
+    .navigation-bar.home a:hover { 
+      color: #5e5e5e; 
+      text-decoration: none;
+    }
   .navigation-bar ul {
     text-decoration: none;
     margin: 0;
     padding: 0;
     float: right;
   }
-    .navigation-bar ul li { display: inline; }
+    .navigation-bar ul li { 
+      text-decoration: none;
+      display: inline; 
+    }
       .navigation-bar ul li a {
         text-decoration: none;
         padding: 40px;
@@ -105,14 +108,15 @@ ul.posts li {
   .intro-jobtitle {
     font-size: 2em;
     margin-top: 5px;
+    padding-left: 10px;
   }
-div.section-title {
-  margin-top: 30px;
-  font-family: "Coming Soon", "Calibri", Arial;
+.section-title {
+  margin-top: 50px;
+  font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
   font-size: 1.2em;
   font-weight: bold;
 }
-div.row {
+.row {
   vertical-align: inline-block;
 }
 
