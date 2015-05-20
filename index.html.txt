@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+
+	<head>
+		<title>Hannah Van Opstal</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<meta charset="utf-8"></meta>
+
+	</head>
+	
+	<body style="background-color: #FFE1CF">
+	<body>
+	<img scr="/PHOTOS/Signature_v1.jpeg" alt="Hannah Van Opstal">
+	
+	<nav class="navbar">
+		<ul>
+			<li><a href="/">HOME</a></li>
+      
+			<li><a href="/About">ABOUT</a></li>
+      
+			<li><a href="/Projects">PROJECTS</a></li>
+      
+			<li><a href="/Resume">RESUME</a></li>
+      
+			<li><a href="/Blog">BLOG</a></li>
+    
+		</ul>
+	</nav>
+	
+	<div class="container">
+		<h1>Hannah Van Opstal</h1>
+	
+	<div class="blurb">
+		<h2>Hi there!</h2>
+		<p>You can read more about my life <a href="/about">here</a>.<p>
+	</div>
+	
+	</div>
+
+	<footer>
+	<ul>
+		<li><a href="mailto:hannah.van.opstal@gmail.com">EMAIL</a></li>
+		<li><a href="https://github.com/hvanopstal">github.com/hvanopstal</a></li>
+	</ul>
+	</footer> 
+	
+	</body>
+
+</html>
