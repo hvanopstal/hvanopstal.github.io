@@ -98,7 +98,7 @@ ul.posts li {
 
 .intro {
   font-family: "Satisfy", "Calibri", Arial;
-  margin-left: 100px;
+  margin-left: 15%;
   margin-top: 180px;
   margin-bottom: 200px;
 }
@@ -108,7 +108,7 @@ ul.posts li {
   .intro-jobtitle {
     font-size: 2em;
     margin-top: 5px;
-    padding-left: 10px;
+    padding-left: 20%;
   }
 .section-title {
   margin-top: 50px;
