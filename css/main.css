@@ -110,11 +110,9 @@ ul.posts li {
     margin-top: 5px;
     padding-left: 20%;
   }
-.intro-image {
+.intro.container {
     width: 100%;
-    height: 500px;
     background: url("../PHOTOS/Waterloo - Columbia Lake - August 2014.jpg");
-    background-size: cover;
     position: relative;
 }
 .section-title {
