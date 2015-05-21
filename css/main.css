@@ -101,9 +101,6 @@ ul.posts li {
   margin-top: 180px;
   margin-bottom: 200px;
   background-image: url("PHOTOS/ColumbiaLake-2014.JPG");
-  height: auto;
-  margin: auto
-  overflow: hidden;
 }
   .intro-welcome {
     font-size: 2.4em;
