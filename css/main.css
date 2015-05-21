@@ -98,7 +98,6 @@ ul.posts li {
 
 .intro {
   font-family: "Satisfy", "Calibri", Arial;
-  background-image: url("../PHOTOS/Waterloo - Columbia Lake - August 2014.jpg");
   margin-left: 15%;
   margin-top: 180px;
   margin-bottom: 200px;
@@ -111,6 +110,13 @@ ul.posts li {
     margin-top: 5px;
     padding-left: 20%;
   }
+.intro-image {
+    width: 100%;
+    height: 500px;
+    background: url("../PHOTOS/Waterloo - Columbia Lake - August 2014.jpg");
+    background-size: cover;
+    position: relative;
+}
 .section-title {
   margin-top: 50px;
   font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
