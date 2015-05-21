@@ -99,13 +99,13 @@ ul.posts li {
 .intro-container {
     width: 100%;
     height: 500px;
-    background-image: url("PHOTOS/ColumbiaLake-2014.JPG");
     position: relative;
 }
 .intro {
   font-family: "Satisfy", "Calibri", Arial;
   margin-top: 180px;
   margin-bottom: 200px;
+  background: url("PHOTOS/ColumbiaLake-2014.JPG");
 }
   .intro-welcome {
     font-size: 2.4em;
