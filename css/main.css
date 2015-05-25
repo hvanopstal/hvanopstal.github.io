@@ -108,7 +108,7 @@ ul.posts li {
 }
   .intro-welcome {
     padding-top: 200px;
-    font-size: 2.4em;
+    font-size: 3em;
     margin-left: 15%;
   }
   .intro-jobtitle {
@@ -118,11 +118,21 @@ ul.posts li {
   }
 
 .section-title {
-  margin-top: 30px;
+  margin-top: 60px;
   font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
-  font-size: 1.2em;
+  font-size: 1.4em;
   font-weight: bold;
 }
+
+.about-me {
+  vertical-align: inline-block;
+}
+  .portrait {
+    float: left;
+    margin-right: 20px;
+  }
+  .about-me-desc { float: right; }
+  
 .row {
   vertical-align: inline-block;
 }
