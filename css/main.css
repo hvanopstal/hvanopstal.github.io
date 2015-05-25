@@ -91,6 +91,7 @@ ul.posts li {
       .navigation-bar ul li a {
         text-decoration: none;
         color: #191919;
+        padding: 25px;
       }
         .navigation-bar ul li a:last-of-type { padding-right: 0px; }
         .navigation-bar ul li a:hover { color: #5e5e5e; }
@@ -99,11 +100,8 @@ ul.posts li {
   font-family: "Satisfy", "Calibri", Arial;
   margin-top: 180px;
   margin-bottom: 200px;
-  padding-top: 180px;
-  padding-bottom: 200px;
   background-image: url("http://hvanopstal.github.io/PHOTOS/ColumbiaLake-2014.JPG");
   background-position: relative;
-  background: 100%;
 }
   .intro-welcome {
     font-size: 2.4em;
