@@ -69,6 +69,7 @@ ul.posts li {
   vertical-align: inline-block;
   text-decoration: none;
   padding: 5px 0px 15px 0;
+  display: inline;
 }
   .navigation-bar.home a { 
     text-decoration: none;
