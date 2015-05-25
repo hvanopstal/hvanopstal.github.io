@@ -101,6 +101,7 @@ ul.posts li {
   font-family: "Satisfy", "Calibri", Arial;
   <!-- margin-top: 180px;
   margin-bottom: 200px; --> 
+  padding-top: 15px;
   width: 100%;
   height: 500px;
   background-image: url("http://hvanopstal.github.io/PHOTOS/ColumbiaLake-2014.JPG");
@@ -118,7 +119,7 @@ ul.posts li {
   }
 
 .section-title {
-  margin-top: 50px;
+  margin-top: 30px;
   font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
   font-size: 1.2em;
   font-weight: bold;
