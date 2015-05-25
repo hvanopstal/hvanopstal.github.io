@@ -101,13 +101,13 @@ ul.posts li {
   margin-top: 20px;
   font-family: "Satisfy", "Calibri", Arial;
   width: 100%;
-  height: 580px;
+  height: 600px;
   background-image: url("http://hvanopstal.github.io/PHOTOS/ColumbiaLake-2014.JPG");
   background-position: relative;
   background-size: cover;
 }
   .intro-welcome {
-    padding-bottom: 140px;
+    padding-top: 140px;
     font-size: 2.4em;
     margin-left: 15%;
   }
