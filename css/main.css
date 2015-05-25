@@ -69,13 +69,13 @@ ul.posts li {
   vertical-align: inline-block;
   text-decoration: none;
   padding: 5px 0px 15px 0;
-  display: inline;
+  <!- display: inline; -->
 }
-  .navigation-bar.home a { 
+  .home a { 
     text-decoration: none;
     float: left;
   }
-    .navigation-bar.home a:hover { 
+    .home a:hover { 
       color: #5e5e5e; 
       text-decoration: none;
     }
