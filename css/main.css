@@ -100,7 +100,8 @@ ul.posts li {
   font-family: "Satisfy", "Calibri", Arial;
   margin-top: 180px;
   margin-bottom: 200px;
-  background-image: url("PHOTOS/ColumbiaLake-2014.JPG");
+  background-image: url("http://hvanopstal.github.io/PHOTOS/ColumbiaLake-2014.JPG");
+  background-position: relative;
 }
   .intro-welcome {
     font-size: 2.4em;
