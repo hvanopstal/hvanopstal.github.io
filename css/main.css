@@ -11,8 +11,11 @@ body {
 }
 .container {
   width: 100%;
-  list-style: none;
 }
+  .container ul li a {
+    list-style: none;
+    text-decoration: none;
+  }
 <!--
 nav ul, footer ul {
   font-family: "Calibri", Arial; 
