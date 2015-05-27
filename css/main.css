@@ -15,6 +15,7 @@ body {
   .container ul li a {
     list-style: none;
     text-decoration: none;
+    vertical-align: inline-block;
   }
 <!--
 nav ul, footer ul {
