@@ -124,6 +124,7 @@ ul.posts li {
 
 .section-title {
   margin-top: 60px;
+  margin-bottom: 40px;
   font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
   font-size: 1.4em;
   font-weight: bold;
@@ -139,10 +140,10 @@ ul.posts li {
   .about-me-desc { float: right; }
   
 .contact-information {
-  float: middle;
   padding: 10px 0px;
   width: 100%;
   display: inline-block;
+  margin-bottom: 20px;
 }
   .contact-information ul {
     text-decoration: none;
@@ -155,4 +156,5 @@ ul.posts li {
   .contact-information ul li a {
     text-decoration: none;
     list-style: none;
+    float: middle;
   }
