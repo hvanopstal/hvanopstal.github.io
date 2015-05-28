@@ -129,13 +129,13 @@ ul.posts li {
   font-size: 1.4em;
   font-weight: bold;
 }
-
 .about-me {
   vertical-align: inline-block;
 }
-  .portrait {
+.portrait {
     float: left;
     margin-right: 20px;
+    width: 250px;
   }
   .about-me-desc { float: right; }
   
