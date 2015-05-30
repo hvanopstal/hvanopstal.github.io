@@ -17,7 +17,7 @@ body {
     text-decoration: none;
     vertical-align: inline-block;
   }
-<!--
+/*
 nav ul, footer ul {
   font-family: "Calibri", Arial; 
   padding: 5px 15px; 
@@ -27,8 +27,8 @@ nav ul li, footer ul li {
   display: inline; 
   text-align: center;
 }
--->
-a { <!-- link elements -->
+*/
+a { /* link elements */
   text-decoration: none;
   font-family: Calibri, Arial;
   list-style: none;
@@ -49,7 +49,7 @@ h2 {
   font-size: 1.4em;
   font-family: "Coming Soon", "Calibri", Arial;
 }
-p { <!-- description elements -->
+p { /* description elements */
   font-family: "News Cycle", "Calibri", Arial;
   color: #191919; 
 }
@@ -69,7 +69,14 @@ ul.posts {
 ul.posts li {
   list-style: none; 
 }
-
+.section-title {
+  margin-top: 75px;
+  margin-bottom: 25px;
+  font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+/* Navigation styles */
 .navigation-bar {
   vertical-align: inline-block;
   text-decoration: none;
@@ -77,12 +84,14 @@ ul.posts li {
   margin-bottom: 20px;
 }
   .home a { 
-    text-decoration: none;
     float: left;
   }
     .home a:hover { 
       color: #5e5e5e; 
       text-decoration: none;
+    }
+    .img-home a {
+      width: 100px;
     }
   .navigation-bar ul {
     text-decoration: none;
@@ -122,13 +131,6 @@ ul.posts li {
     padding-left: 20%;
   }
 
-.section-title {
-  margin-top: 60px;
-  margin-bottom: 25px;
-  font-family: "News Cycle", "Coming Soon", "Calibri", Arial;
-  font-size: 1.4em;
-  font-weight: bold;
-}
 .about-me {
   vertical-align: inline-block;
 }
@@ -138,6 +140,17 @@ ul.posts li {
     width: 250px;
   }
   .about-me-desc { float: right; }
+  .about-me-desc p {
+    font-family: "News Cycle", "Calibri", Arial;
+    color: #191919;   
+  }
+  .about-me-desc p a {
+    text-decoration: none;
+    color: #191919;
+  }
+    .about-me-desc p a:hover { 
+      color: #5e5e5e;
+    }
   
 .contact-information {
   padding: 10px 0px;
@@ -157,4 +170,8 @@ ul.posts li {
     text-decoration: none;
     list-style: none;
     float: middle;
+  }
+  .contact-icons { 
+    width: 160px;
+    height: 100%;
   }
